@@ -1,0 +1,1 @@
+cd /opt/minecraft && java -Xmx1024M -Xms1024M -jar ./server/forge-1.20.1-47.2.5.jar nogui
